@@ -1,4 +1,3 @@
-New changes`
 
 # A Java/Maven/JUnit HelloWorld example
 
