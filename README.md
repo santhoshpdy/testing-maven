@@ -29,7 +29,4 @@ This example follows the following basic conventions:
 | **handled by Maven plugin:** | [surefire](http://maven.apache.org/surefire/maven-surefire-plugin/) | [failsafe](http://maven.apache.org/surefire/maven-failsafe-plugin/) |
 
 
-
-new changes
-
 Welcome
