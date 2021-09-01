@@ -16,7 +16,7 @@ public class Hello {
     
     public int newint;
     
-    public int secondint
+    public int secondint;
 
 
     /**
