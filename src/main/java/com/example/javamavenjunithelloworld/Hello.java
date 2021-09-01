@@ -13,6 +13,11 @@ public class Hello {
     public static final int MAXIMUM_AMOUNT_OF_TIMES = 20;
 
     private int times = 1;
+    
+    public int newint;
+    
+    public int secondint
+
 
     /**
      * Set how many times "Hello!" should be said.
@@ -28,14 +33,7 @@ public class Hello {
             ));
         }
         this.times = times;
-        try{
-            System.out.println("Hello");
-        }
-        catch(IOException e){
-            System.out.println(e);
-        }
-        catch(Exception ex){
-        }
+        
     }
 
     /**
