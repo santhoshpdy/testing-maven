@@ -30,7 +30,7 @@ public class Hello {
         try{
             System.out.println("Hello");
         }
-        catch(Exception e){
+        catch(FileNotFoundException e){
             System.out.println(e);
         }
         catch(Exception ex){
