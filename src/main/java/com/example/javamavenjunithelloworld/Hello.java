@@ -27,6 +27,14 @@ public class Hello {
             ));
         }
         this.times = times;
+        try{
+            System.out.println("Hello");
+        }
+        catch(Exception e){
+            System.out.println(e);
+        }
+        catch(Exception ex){
+        }
     }
 
     /**
